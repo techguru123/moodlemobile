@@ -3,16 +3,16 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobile"
-        versionCode = "391"
-        version   = "1.15">
-    <name>Moodle Mobile</name>
+        versionCode = "399"
+        version   = "1.51">
+    <name>FindGuru</name>
 
     <description>
-        Moodle Mobile official app
+        FindGuru official app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://moodle.com" email="gurututorialsforu@gmail.com">
+        Somwanshi Dnyaneshwar
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
